@@ -1,5 +1,6 @@
 #include <stdio.h>
-char name [100][30];
+#include <string.h>
+char name [100][30],tempName[30];
 int grade [100];
 int main()
 {
